@@ -14,7 +14,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src={"https://cdn.discordapp.com/attachments/1079953929359589386/1167484088987418665/mke-logo.png?ex=6560c049&is=654e4b49&hm=e0dab755f199d44d69a9126d2b3e85a33cfaa867cc13a85ae4e4a119aa9e051e&"} className="logo react" alt="React logo" />
         </a>
       </div>
       <h1>Vite + React</h1>
